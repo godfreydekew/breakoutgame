@@ -1,7 +1,5 @@
 from turtle import Turtle
 
-
-
 class Blocks(Turtle):
     def __init__(self, position, color):
         super().__init__()

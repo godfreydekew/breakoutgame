@@ -1,7 +1,5 @@
 from turtle import Turtle
 
-
-
 class Borders(Turtle):
     def __init__(self, position, y, x):
         super().__init__()
